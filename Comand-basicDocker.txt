@@ -437,10 +437,10 @@ Ejecutar una base de datos (MySQL, PostgreSQL, MongoDB)
 Probar diferentes stacks (LAMP, MEAN, Python+Flask)
 Experimentar con comandos que no vimos en detalle
 🔗 Recursos útiles
-📚 Docker Documentation
-🐳 Docker Hub
-💡 Docker Best Practices
-📺 Docker Blog
+📚 Docker Documentation: https://docs.docker.com/
+🐳 Docker Hub: https://hub.docker.com/repositories/w4ll1
+💡 Docker Best Practices:  https://docs.docker.com/develop/best-practices/
+📺 Docker Blog: https://www.docker.com/blog/
 🚀 ¡Estás listo para el siguiente nivel! Continuá con Docker II para convertirte en un experto en contenedores.
 
  
